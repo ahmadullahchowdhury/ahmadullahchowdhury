@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D5616AQEYLbPE4zCWfQ/profile-displaybackgroundimage-shrink_350_1400/0/1693031483409?e=1698278400&v=beta&t=C-2wwsd-bo7botsjY0MczkH5iSJEE7D8wPKsj_nMMUo" align="center" style="width: 100%" />
+<img src="https://media.licdn.com/dms/image/D5616AQEYLbPE4zCWfQ/profile-displaybackgroundimage-shrink_350_1400/0/1693031483994?e=1706140800&v=beta&t=hJgkhldDU3Y9jXBijLGnI2MrJS2ay4zLcxao7d6kMQs" align="center" style="width: 100%" />
 </div>  
   
 
